@@ -1,0 +1,860 @@
+tahun	kdprov	urprov	kdpemda	urpemda	kdakun	urakun	kdkelompok	urkelompok	kdjenis	urjenis	kdobjek	urobjek	nilai
+2023	10	Provinsi Jawa Barat	12	Kab. Purwakarta	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	190526939200
+2023	11	Provinsi Jawa Tengah	01	Kab. Banjarnegara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	285008401000
+2023	11	Provinsi Jawa Tengah	05	Kab. Boyolali	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	265842691000
+2023	11	Provinsi Jawa Tengah	10	Kab. Jepara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	212555731000
+2023	20	Provinsi Sulawesi Selatan	02	Kab. Barru	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	38739622000
+2023	20	Provinsi Sulawesi Selatan	10	Kab. Maros	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	78490716000
+2023	22	Provinsi Bali	01	Kab. Badung	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	47887856200
+2023	24	Provinsi Nusa Tenggara Timur	10	Kab. Sumba Barat	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	59750038000
+2023	27	Provinsi Maluku Utara	04	Kab. Halmahera Timur	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	90059876200
+2023	30	Provinsi Gorontalo	02	Kab. Gorontalo	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	168040351000
+2023	32	Provinsi Papua Barat	12	Kab. Manokwari Selatan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	49740256000
+2024	01	Provinsi Aceh   	04	Kab. Aceh Singkil	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	46825667600
+2024	01	Provinsi Aceh   	12	Kota Banda Aceh	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	52726038800
+2024	01	Provinsi Aceh   	20	Kab. Aceh Tamiang	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	91398556000
+2024	01	Provinsi Aceh   	21	Kab. Bener Meriah	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	113466001800
+2024	01	Provinsi Aceh   	22	Kab. Pidie Jaya	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	163748709000
+2024	02	Provinsi Sumatera Utara                           	09	Kab. Simalungun	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	165584705200
+2024	03	Provinsi Sumatera Barat                           	19	Kab. Solok Selatan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	22674213800
+2024	04	Provinsi Riau                                     	08	Kab. Rokan Hulu	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	70126574600
+2024	10	Provinsi Jawa Barat                               	14	Kab. Sukabumi	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	237806033200
+2024	13	Provinsi Jawa Timur                               	20	Kab. Pasuruan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	193275916800
+2024	13	Provinsi Jawa Timur                               	25	Kab. Situbondo	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	80514992000
+2024	14	Provinsi Kalimantan Barat                         	03	Kab. Kapuas Hulu	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	132028952200
+2024	15	Provinsi Kalimantan Tengah                        	01	Kab. Barito Selatan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	34960837800
+2024	19	Provinsi Sulawesi Tengah                          	10	Kab. Tojo Una Una	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	74793665800
+2024	19	Provinsi Sulawesi Tengah                          	13	Kab. Morowali Utara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	60588398200
+2024	21	Provinsi Sulawesi Tenggara                        	04	Kab. Muna	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	66065377400
+2024	21	Provinsi Sulawesi Tenggara                        	15	Kab. Muna Barat	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	33632729600
+2024	22	Provinsi Bali                                     	05	Kab. Jembrana	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	24928301600
+2024	23	Provinsi Nusa Tenggara Barat                      	09	Kab. Sumbawa Barat	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	38637774600
+2024	24	Provinsi Nusa Tenggara Timur                      	12	Kab. Timor Tengah Selatan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	95422952200
+2024	25	Provinsi Maluku                                   	09	Kota Tual	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	12470433000
+2024	31	Provinsi Kepulauan Riau                           	02	Kab. Kepulauan Anambas	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	21111083000
+2024	37	Provinsi Papua Pegunungan	05	Kab. Mamberamo Tengah	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	24777764200
+2024	37	Provinsi Papua Pegunungan	07	Kab. Lanny Jaya	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	155443060000
+2023	02	Provinsi Sumatera Utara	20	Kota Padang Sidempuan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	32910291000
+2023	02	Provinsi Sumatera Utara	25	Kab. Samosir	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	101652622000
+2023	02	Provinsi Sumatera Utara	30	Kab. Labuhanbatu Utara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	89370339400
+2023	04	Provinsi Riau	07	Kab. Rokan Hilir	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	152911787200
+2023	05	Provinsi Jambi	06	Kab. Sarolangun	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	129227629400
+2023	06	Provinsi Sumatera Selatan	03	Kab. Musi Rawas	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	171930467000
+2023	07	Provinsi Bengkulu	09	Kab. Kepahiang	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	85034005600
+2023	11	Provinsi Jawa Tengah	14	Kab. Klaten	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	380301846000
+2023	11	Provinsi Jawa Tengah	27	Kab. Temanggung	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	242462582000
+2023	13	Provinsi Jawa Timur	18	Kab. Pacitan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	171988044000
+2023	13	Provinsi Jawa Timur	38	Kota Batu	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	20668338000
+2023	14	Provinsi Kalimantan Barat	06	Kab. Sambas	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	184385908000
+2023	17	Provinsi Kalimantan Timur	03	Kab. Kutai Kartanegara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	192420471000
+2023	18	Provinsi Sulawesi Utara	15	Kab. Bolaang Mongondow Selatan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	61905121000
+2023	21	Provinsi Sulawesi Tenggara	10	Kab. Kolaka Utara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	107186190850
+2023	24	Provinsi Nusa Tenggara Timur	06	Kab. Lembata	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	124903067000
+2023	26	Provinsi Papua	12	Kab. Keerom	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	80560098000
+2023	36	Provinsi Papua Tengah	04	Kab. Puncak Jaya	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	285584761000
+2023	36	Provinsi Papua Tengah	08	Kab. Deiyai	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	65522539000
+2024	02	Provinsi Sumatera Utara                           	33	Kota Gunungsitoli	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	42348013200
+2024	06	Provinsi Sumatera Selatan                         	14	Kab. OKU Selatan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	100504833200
+2024	06	Provinsi Sumatera Selatan                         	17	Kab. Musi Rawas Utara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	38457084200
+2024	11	Provinsi Jawa Tengah                              	07	Kab. Cilacap	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	163263178400
+2024	16	Provinsi Kalimantan Selatan                       	12	Kab. Balangan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	57901043200
+2024	18	Provinsi Sulawesi Utara                           	07	Kab. Minahasa Selatan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	62666871800
+2024	24	Provinsi Nusa Tenggara Timur                      	03	Kab. Ende	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	32787321000
+2024	25	Provinsi Maluku                                   	04	Kab. Buru	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	37458914000
+2024	30	Provinsi Gorontalo                                	01	Kab. Boalemo	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	44128430600
+2024	30	Provinsi Gorontalo                                	06	Kab. Gorontalo Utara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	64573027800
+2023	03	Provinsi Sumatera Barat	07	Kab. Sijunjung	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	61883611800
+2023	06	Provinsi Sumatera Selatan	12	Kab. Ogan Ilir	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	197126540000
+2023	06	Provinsi Sumatera Selatan	15	Kab. Empat Lawang	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	129032263000
+2023	08	Provinsi Lampung	05	Kab. Lampung Timur	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	269334514100
+2023	13	Provinsi Jawa Timur	22	Kab. Probolinggo	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	344672757000
+2023	15	Provinsi Kalimantan Tengah	11	Kab. Gunung Mas	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	95043161190
+2023	15	Provinsi Kalimantan Tengah	14	Kab. Barito Timur	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	77935147800
+2023	20	Provinsi Sulawesi Selatan	06	Kab. Gowa	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	117841448307
+2023	23	Provinsi Nusa Tenggara Barat	04	Kab. Lombok Tengah	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	166892819000
+2023	29	Provinsi Bangka Belitung	05	Kab. Bangka Tengah	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	50883326000
+2023	29	Provinsi Bangka Belitung	07	Kab. Belitung Timur	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	38883640000
+2023	37	Provinsi Papua Pegunungan	06	Kab. Yalimo	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	227043943000
+2024	01	Provinsi Aceh   	03	Kab. Aceh Selatan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	91555983600
+2024	01	Provinsi Aceh   	13	Kota Sabang	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	9440698200
+2024	01	Provinsi Aceh   	15	Kota Lhokseumawe	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	34842596600
+2024	01	Provinsi Aceh   	16	Kab. Gayo Lues	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	74235611000
+2024	02	Provinsi Sumatera Utara                           	12	Kab. Tapanuli Utara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	59397927600
+2024	03	Provinsi Sumatera Barat                           	17	Kab. Pasaman Barat	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	43671777600
+2024	06	Provinsi Sumatera Selatan                         	04	Kab. Muara Enim	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	110111300000
+2024	10	Provinsi Jawa Barat                               	15	Kab. Sumedang	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	156589037600
+2024	12	Provinsi DI Yogyakarta                            	01	Kab. Bantul	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	75027987600
+2024	13	Provinsi Jawa Timur                               	02	Kab. Banyuwangi	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	131829685200
+2024	20	Provinsi Sulawesi Selatan                         	05	Kab. Enrekang	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	48634777200
+2024	21	Provinsi Sulawesi Tenggara                        	13	Kab. Konawe Kepulauan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	30776675800
+2024	27	Provinsi Maluku Utara                             	06	Kab. Halmahera Utara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	70566667400
+2024	28	Provinsi Banten                                   	04	Kab. Tangerang	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	180491268000
+2024	29	Provinsi  Bangka Belitung                         	06	Kab. Bangka Barat	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	28277630600
+2024	32	Provinsi Papua Barat                              	01	Kab. Fak Fak	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	46362207800
+2024	32	Provinsi Papua Barat                              	02	Kab. Manokwari	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	65688612000
+2024	36	Provinsi Papua Tengah	06	Kab. Puncak	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	99795876200
+2023	01	Provinsi Aceh	22	Kab. Pidie Jaya	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	169305735000
+2023	03	Provinsi Sumatera Barat	18	Kab. Dharmasraya	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	54485661000
+2023	04	Provinsi Riau	05	Kab. Kuantan Singingi	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	177944592236
+2023	11	Provinsi Jawa Tengah	07	Kab. Cilacap	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	328544506300
+2023	11	Provinsi Jawa Tengah	09	Kab. Grobogan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	311445783000
+2023	15	Provinsi Kalimantan Tengah	05	Kab. Kotawaringin Timur	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	153858559000
+2023	16	Provinsi Kalimantan Selatan	12	Kab. Balangan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	112897928300
+2023	20	Provinsi Sulawesi Selatan	08	Kab. Luwu	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	179315608000
+2023	21	Provinsi Sulawesi Tenggara	02	Kab. Konawe	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	218978282000
+2023	26	Provinsi Papua	09	Kab. Kepulauan Yapen	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	122409975000
+2023	29	Provinsi Bangka Belitung	02	Kab. Belitung	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	40466853100
+2023	33	Provinsi Sulawesi Barat	02	Kab. Mamuju	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	85572902000
+2024	02	Provinsi Sumatera Utara                           	10	Kab. Tapanuli Selatan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	97348653000
+2024	02	Provinsi Sumatera Utara                           	30	Kab. Labuhanbatu Utara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	43434963600
+2024	04	Provinsi Riau                                     	01	Kab. Bengkalis	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	75856020000
+2024	04	Provinsi Riau                                     	07	Kab. Rokan Hilir	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	61806416400
+2024	07	Provinsi  Bengkulu                                	05	Kab. Kaur	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	100395184600
+2024	08	Provinsi  Lampung                                 	07	Kab. Tulang Bawang	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	63442424000
+2024	11	Provinsi Jawa Tengah                              	15	Kab. Kudus	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	72134113000
+2024	11	Provinsi Jawa Tengah                              	27	Kab. Temanggung	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	122455849800
+2024	15	Provinsi Kalimantan Tengah                        	02	Kab. Barito Utara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	22167194800
+2024	15	Provinsi Kalimantan Tengah                        	13	Kab. Murung Raya	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	54147753000
+2024	19	Provinsi Sulawesi Tengah                          	03	Kab. Buol	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	57741771800
+2024	20	Provinsi Sulawesi Selatan                         	02	Kab. Barru	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	22245891400
+2024	20	Provinsi Sulawesi Selatan                         	14	Kab. Pinrang	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	45476530400
+2024	22	Provinsi Bali                                     	07	Kab. Klungkung	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	32343484000
+2024	24	Provinsi Nusa Tenggara Timur                      	06	Kab. Lembata	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	58926749200
+2024	24	Provinsi Nusa Tenggara Timur                      	09	Kab. Sikka	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	72754957000
+2024	29	Provinsi  Bangka Belitung                         	04	Kab. Bangka Selatan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	30987133800
+2024	29	Provinsi  Bangka Belitung                         	05	Kab. Bangka Tengah	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	27851703000
+2024	32	Provinsi Papua Barat                              	07	Kab. Teluk Bintuni	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	51566388000
+2024	36	Provinsi Papua Tengah	05	Kab. Dogiyai	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	43519345200
+2023	03	Provinsi Sumatera Barat	17	Kab. Pasaman Barat	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	34974531000
+2023	08	Provinsi Lampung	11	Kab. Pesawaran	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	141548213000
+2023	10	Provinsi Jawa Barat	05	Kab. Cianjur	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	450588614940
+2023	10	Provinsi Jawa Barat	10	Kab. Kuningan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	352599938000
+2023	11	Provinsi Jawa Tengah	16	Kab. Magelang	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	363989464000
+2023	18	Provinsi Sulawesi Utara	01	Kab. Bolaang Mongondow	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	152964788000
+2023	19	Provinsi Sulawesi Tengah	09	Kab. Parigi Moutong	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	241123454500
+2023	23	Provinsi Nusa Tenggara Barat	10	Kab. Lombok Utara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	63225544000
+2023	25	Provinsi Maluku	11	Kab. Buru Selatan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	69566238000
+2023	27	Provinsi Maluku Utara	08	Kota Tidore Kepulauan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	39605868000
+2023	28	Provinsi Banten	04	Kab. Tangerang	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	336886617000
+2023	30	Provinsi Gorontalo	04	Kab. Pohuwato	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	86083963735
+2024	01	Provinsi Aceh   	05	Kab. Aceh Tengah	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	119717445600
+2024	01	Provinsi Aceh   	09	Kab. Bireuen	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	239395421800
+2024	02	Provinsi Sumatera Utara                           	26	Kab. Batu Bara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	66240235400
+2024	03	Provinsi Sumatera Barat                           	03	Kab. Kepulauan Mentawai	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	23119211200
+2024	06	Provinsi Sumatera Selatan                         	08	Kota Prabumulih	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	5311103400
+2024	06	Provinsi Sumatera Selatan                         	12	Kab. Ogan Ilir	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	110211729000
+2024	10	Provinsi Jawa Barat                               	27	Kab. Pangandaran	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	58233802200
+2024	13	Provinsi Jawa Timur                               	27	Kab. Trenggalek	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	88426311600
+2024	14	Provinsi Kalimantan Barat                         	04	Kab. Ketapang	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	137981983600
+2024	14	Provinsi Kalimantan Barat                         	07	Kab. Sanggau	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	86394847600
+2024	17	Provinsi Kalimantan Timur                         	05	Kab. Kutai Timur	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	63410549400
+2024	18	Provinsi Sulawesi Utara                           	10	Kab. Kep. Siau Tagulandang Biaro	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	29702438200
+2024	18	Provinsi Sulawesi Utara                           	11	Kota Kotamobagu	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	7430808400
+2024	19	Provinsi Sulawesi Tengah                          	09	Kab. Parigi Moutong	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	121717587386
+2024	20	Provinsi Sulawesi Selatan                         	25	Kab. Toraja Utara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	47709412400
+2024	21	Provinsi Sulawesi Tenggara                        	01	Kab. Buton	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	31762740600
+2024	21	Provinsi Sulawesi Tenggara                        	11	Kab. Konawe Utara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	57358312800
+2024	23	Provinsi Nusa Tenggara Barat                      	06	Kab. Sumbawa	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	76900049400
+2024	25	Provinsi Maluku                                   	11	Kab. Buru Selatan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	34105793000
+2024	26	Provinsi Papua                                    	19	Kab. Waropen	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	40309202200
+2024	28	Provinsi Banten                                   	01	Kab. Lebak	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	266328434000
+2024	31	Provinsi Kepulauan Riau                           	06	Kab. Lingga	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	38638999800
+2024	31	Provinsi Kepulauan Riau                           	07	Kab. Bintan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	24091707600
+2024	32	Provinsi Papua Barat                              	08	Kab. Teluk Wondama	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	20593693200
+2024	34	Provinsi Kalimantan Utara	02	Kab. Malinau	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	60905380800
+2024	37	Provinsi Papua Pegunungan	06	Kab. Yalimo	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	107698515400
+2024	38	Provinsi Papua Barat Daya	01	Kab. Sorong	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	18804399800
+2023	01	Provinsi Aceh	02	Kab. Aceh Besar	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	437492408200
+2023	01	Provinsi Aceh	20	Kab. Aceh Tamiang	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	171848441900
+2023	04	Provinsi Riau	06	Kab. Pelalawan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	101503434900
+2023	04	Provinsi Riau	09	Kab. Siak	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	115395616000
+2023	07	Provinsi Bengkulu	08	Kab. Lebong	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	74706511000
+2023	10	Provinsi Jawa Barat	08	Kab. Indramayu	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	349840577000
+2023	13	Provinsi Jawa Timur	02	Kab. Banyuwangi	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	229305443700
+2023	13	Provinsi Jawa Timur	06	Kab. Gresik	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	318788865000
+2023	19	Provinsi Sulawesi Tengah	06	Kab. Morowali	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	104761178944
+2023	20	Provinsi Sulawesi Selatan	19	Kab. Soppeng	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	46704934000
+2023	20	Provinsi Sulawesi Selatan	22	Kab. Wajo	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	119082791000
+2023	24	Provinsi Nusa Tenggara Timur	07	Kab. Manggarai	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	127982480000
+2023	24	Provinsi Nusa Tenggara Timur	15	Kab. Rote Ndao	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	107810890000
+2023	24	Provinsi Nusa Tenggara Timur	17	Kab. Nagekeo	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	81928920000
+2023	25	Provinsi Maluku	07	Kab. Seram Bagian Timur	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	160981079000
+2023	25	Provinsi Maluku	09	Kota Tual	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	23329951286
+2023	26	Provinsi Papua	20	Kab. Supiori	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	28108582200
+2023	27	Provinsi Maluku Utara	03	Kab. Halmahera Barat	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	131996607000
+2023	28	Provinsi Banten	02	Kab. Pandeglang	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	331794102000
+2024	02	Provinsi Sumatera Utara                           	21	Kab. Pakpak Bharat	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	20255506000
+2024	05	Provinsi Jambi                                    	05	Kab. Muaro Jambi	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	66245165200
+2024	11	Provinsi Jawa Tengah                              	13	Kab. Kendal	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	129440970200
+2024	11	Provinsi Jawa Tengah                              	23	Kab. Semarang	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	140346944800
+2024	13	Provinsi Jawa Timur                               	12	Kab. Madiun	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	183605634600
+2024	13	Provinsi Jawa Timur                               	29	Kab. Tulungagung	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	218772817800
+2024	13	Provinsi Jawa Timur                               	38	Kota Batu	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	12194445000
+2024	15	Provinsi Kalimantan Tengah                        	09	Kab. Sukamara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	13520277200
+2024	16	Provinsi Kalimantan Selatan                       	01	Kab. Banjar	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	129746842000
+2024	16	Provinsi Kalimantan Selatan                       	07	Kab. Tabalong	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	57202850800
+2024	21	Provinsi Sulawesi Tenggara                        	09	Kab. Wakatobi	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	29199158600
+2024	22	Provinsi Bali                                     	03	Kab. Buleleng	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	75255317000
+2024	22	Provinsi Bali                                     	04	Kab. Gianyar	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	46838188600
+2024	25	Provinsi Maluku                                   	01	Kab. Kepulauan Tanimbar	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	34577731200
+2023	02	Provinsi Sumatera Utara	12	Kab. Tapanuli Utara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	198733682000
+2023	02	Provinsi Sumatera Utara	31	Kab. Nias Utara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	112247060856
+2023	06	Provinsi Sumatera Selatan	06	Kab. Ogan Komering Ulu	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	130350421350
+2023	08	Provinsi Lampung	07	Kab. Tulang Bawang	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	133796609000
+2023	12	Provinsi DI Yogyakarta	02	Kab. Gunung Kidul	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	179933551000
+2023	13	Provinsi Jawa Timur	17	Kab. Ngawi	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	230415438000
+2023	16	Provinsi Kalimantan Selatan	05	Kab. Hulu Sungai Utara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	160337302285
+2023	18	Provinsi Sulawesi Utara	11	Kota Kotamobagu	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	13009817000
+2023	20	Provinsi Sulawesi Selatan	05	Kab. Enrekang	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	96923567000
+2023	21	Provinsi Sulawesi Tenggara	04	Kab. Muna	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	104930863000
+2023	21	Provinsi Sulawesi Tenggara	17	Kab. Buton Selatan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	50215599000
+2023	22	Provinsi Bali	05	Kab. Jembrana	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	42554456000
+2023	26	Provinsi Papua	11	Kab. Sarmi	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	88110756000
+2023	36	Provinsi Papua Tengah	06	Kab. Puncak	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	195934333000
+2024	01	Provinsi Aceh   	11	Kab. Simeulue	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	55171299200
+2024	02	Provinsi Sumatera Utara                           	04	Kab. Karo	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	113250501600
+2024	02	Provinsi Sumatera Utara                           	11	Kab. Tapanuli Tengah	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	73201216400
+2024	02	Provinsi Sumatera Utara                           	27	Kab. Padang Lawas	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	114338098400
+2024	04	Provinsi Riau                                     	12	Kab. Kepulauan Meranti	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	47262525600
+2024	08	Provinsi  Lampung                                 	08	Kab. Way Kanan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	116484947600
+2024	10	Provinsi Jawa Barat                               	11	Kab. Majalengka	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	173476868000
+2024	11	Provinsi Jawa Tengah                              	03	Kab. Batang	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	111471952400
+2024	11	Provinsi Jawa Tengah                              	21	Kab. Purworejo	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	186665827000
+2024	13	Provinsi Jawa Timur                               	07	Kab. Jember	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	201366248400
+2024	18	Provinsi Sulawesi Utara                           	03	Kab. Sangihe	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	52352804600
+2024	23	Provinsi Nusa Tenggara Barat                      	10	Kab. Lombok Utara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	45429453800
+2024	24	Provinsi Nusa Tenggara Timur                      	05	Kab. Kupang	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	42180892400
+2024	24	Provinsi Nusa Tenggara Timur                      	11	Kab. Sumba Timur	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	59998917600
+2024	31	Provinsi Kepulauan Riau                           	03	Kab. Karimun	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	29477152000
+2024	37	Provinsi Papua Pegunungan	01	Kab. Jayawijaya	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	136113853600
+2023	01	Provinsi Aceh	19	Kab. Nagan Raya	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	172000868700
+2023	02	Provinsi Sumatera Utara	08	Kab. Nias	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	147262254000
+2023	02	Provinsi Sumatera Utara	28	Kab. Padang Lawas Utara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	290697938465
+2023	05	Provinsi Jambi	05	Kab. Muaro Jambi	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	130324283000
+2023	08	Provinsi Lampung	13	Kab. Mesuji	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	91507348000
+2023	10	Provinsi Jawa Barat	02	Kab. Bekasi	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	256985104000
+2023	16	Provinsi Kalimantan Selatan	13	Kab. Tanah Bumbu	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	122424918000
+2023	17	Provinsi Kalimantan Timur	15	Kab. Mahakam Ulu	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	48260654012
+2023	19	Provinsi Sulawesi Tengah	05	Kab. Donggala	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	142798026604
+2023	20	Provinsi Sulawesi Selatan	15	Kab. Sinjai	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	62931678000
+2023	20	Provinsi Sulawesi Selatan	17	Kab. Sidenreng Rappang	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	60898941000
+2023	22	Provinsi Bali	03	Kab. Buleleng	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	132727227000
+2023	25	Provinsi Maluku	10	Kab. Maluku Barat Daya	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	103734301000
+2023	27	Provinsi Maluku Utara	07	Kab. Kepulauan Sula	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	66432311992
+2023	27	Provinsi Maluku Utara	10	Kab. Pulau Taliabu	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	58869676000
+2023	30	Provinsi Gorontalo	01	Kab. Boalemo	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	72534933400
+2024	01	Provinsi Aceh   	06	Kab. Aceh Tenggara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	152108412200
+2024	01	Provinsi Aceh   	14	Kota Langsa	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	32744515626
+2024	03	Provinsi Sumatera Barat                           	04	Kab. Padang Pariaman	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	58733442400
+2024	04	Provinsi Riau                                     	09	Kab. Siak	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	74743371400
+2024	07	Provinsi  Bengkulu                                	02	Kab. Bengkulu Utara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	85322530000
+2024	08	Provinsi  Lampung                                 	06	Kab. Tanggamus	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	122943778200
+2024	14	Provinsi Kalimantan Barat                         	11	Kab. Sekadau	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	47425752800
+2024	16	Provinsi Kalimantan Selatan                       	02	Kab. Barito Kuala	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	101074140400
+2024	19	Provinsi Sulawesi Tengah                          	01	Kab. Banggai	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	111785315200
+2024	19	Provinsi Sulawesi Tengah                          	04	Kab. Toli-Toli	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	68347916400
+2024	20	Provinsi Sulawesi Selatan                         	09	Kab. Luwu Utara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	80543030800
+2024	24	Provinsi Nusa Tenggara Timur                      	02	Kab. Belu	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	30101948600
+2024	27	Provinsi Maluku Utara                             	05	Kab. Halmahera Selatan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	161882007128
+2024	36	Provinsi Papua Tengah	04	Kab. Puncak Jaya	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	165074101800
+2023	01	Provinsi Aceh	08	Kab. Aceh Utara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	639061446128
+2023	02	Provinsi Sumatera Utara	33	Kota Gunungsitoli	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	85859661318
+2023	08	Provinsi Lampung	12	Kab. Pringsewu	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	119943820000
+2023	10	Provinsi Jawa Barat	04	Kab. Ciamis	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	266526909000
+2023	16	Provinsi Kalimantan Selatan	08	Kab. Tanah Laut	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	112845982320
+2023	18	Provinsi Sulawesi Utara	07	Kab. Minahasa Selatan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	127606962000
+2023	18	Provinsi Sulawesi Utara	14	Kab. Bolaang Mongondow Timur	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	61170584000
+2023	21	Provinsi Sulawesi Tenggara	16	Kab. Buton Tengah	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	56546729000
+2023	24	Provinsi Nusa Tenggara Timur	02	Kab. Belu	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	64370256000
+2023	24	Provinsi Nusa Tenggara Timur	03	Kab. Ende	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	210467635770
+2023	25	Provinsi Maluku	04	Kab. Buru	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	76916354400
+2023	26	Provinsi Papua	10	Kota Jayapura	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	11481961408
+2023	30	Provinsi Gorontalo	06	Kab. Gorontalo Utara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	95434159000
+2023	37	Provinsi Papua Pegunungan	03	Kab. Pegunungan Bintang	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	237837594000
+2023	38	Provinsi Papua Barat Daya	03	Kab. Raja Ampat	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	94852583000
+2023	38	Provinsi Papua Barat Daya	04	Kab. Sorong Selatan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	77367898800
+2024	02	Provinsi Sumatera Utara                           	20	Kota Padang Sidempuan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	15955098000
+2024	05	Provinsi Jambi                                    	06	Kab. Sarolangun	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	64458567600
+2024	06	Provinsi Sumatera Selatan                         	01	Kab. Lahat	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	143833435200
+2024	06	Provinsi Sumatera Selatan                         	03	Kab. Musi Rawas	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	84894626400
+2024	06	Provinsi Sumatera Selatan                         	13	Kab. OKU Timur	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	127554259400
+2024	10	Provinsi Jawa Barat                               	25	Kota Banjar	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	10539360000
+2024	11	Provinsi Jawa Tengah                              	08	Kab. Demak	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	132174921200
+2024	11	Provinsi Jawa Tengah                              	14	Kab. Klaten	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	221466527400
+2024	11	Provinsi Jawa Tengah                              	18	Kab. Pekalongan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	140197342200
+2024	11	Provinsi Jawa Tengah                              	26	Kab. Tegal	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	177928101400
+2024	13	Provinsi Jawa Timur                               	16	Kab. Nganjuk	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	153426418600
+2024	14	Provinsi Kalimantan Barat                         	06	Kab. Sambas	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	119945164400
+2024	17	Provinsi Kalimantan Timur                         	03	Kab. Kutai Kartanegara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	101096880000
+2024	17	Provinsi Kalimantan Timur                         	13	Kab. Penajam Paser Utara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	16379415400
+2024	19	Provinsi Sulawesi Tengah                          	02	Kab. Banggai Kepulauan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	50003129200
+2024	21	Provinsi Sulawesi Tenggara                        	10	Kab. Kolaka Utara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	69681999400
+2024	24	Provinsi Nusa Tenggara Timur                      	08	Kab. Ngada	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	77003384000
+2023	01	Provinsi Aceh	03	Kab. Aceh Selatan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	202793203000
+2023	01	Provinsi Aceh	07	Kab. Aceh Timur	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	390532377000
+2023	03	Provinsi Sumatera Barat	16	Kota Pariaman	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	41372835000
+2023	06	Provinsi Sumatera Selatan	08	Kota Prabumulih	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	10466952000
+2023	08	Provinsi Lampung	06	Kab. Tanggamus	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	265278346509
+2023	11	Provinsi Jawa Tengah	13	Kab. Kendal	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	261152593800
+2023	11	Provinsi Jawa Tengah	23	Kab. Semarang	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	205979019000
+2023	12	Provinsi DI Yogyakarta	01	Kab. Bantul	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	126479025000
+2023	14	Provinsi Kalimantan Barat	13	Kab. Kayong Utara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	43968061563
+2023	16	Provinsi Kalimantan Selatan	01	Kab. Banjar	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	222580763000
+2023	18	Provinsi Sulawesi Utara	02	Kab. Minahasa	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	174085342000
+2023	18	Provinsi Sulawesi Utara	12	Kab. Bolaang Mongondow Utara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	78926577000
+2023	22	Provinsi Bali	04	Kab. Gianyar	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	68054916000
+2023	22	Provinsi Bali	08	Kab. Tabanan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	117628512000
+2023	25	Provinsi Maluku	02	Kab. Maluku Tengah	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	173367490503
+2023	26	Provinsi Papua	02	Kab. Jayapura	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	120885139000
+2023	31	Provinsi Kepulauan Riau	01	Kab. Natuna	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	53850434000
+2023	35	Provinsi Papua Selatan	04	Kab. Asmat	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	232769646000
+2023	36	Provinsi Papua Tengah	02	Kab. Nabire	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	77226711000
+2024	04	Provinsi Riau                                     	03	Kab. Indragiri Hulu	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	83021165400
+2024	05	Provinsi Jambi                                    	02	Kab. Bungo	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	73239512310
+2024	05	Provinsi Jambi                                    	11	Kota Sungai Penuh	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	28557089400
+2024	08	Provinsi  Lampung                                 	04	Kab. Lampung Utara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	130854385200
+2024	10	Provinsi Jawa Barat                               	03	Kab. Bogor	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	276447260800
+2024	10	Provinsi Jawa Barat                               	04	Kab. Ciamis	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	149886358200
+2024	10	Provinsi Jawa Barat                               	08	Kab. Indramayu	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	174916232200
+2024	10	Provinsi Jawa Barat                               	13	Kab. Subang	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	156520130600
+2024	11	Provinsi Jawa Tengah                              	02	Kab. Banyumas	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	233103865000
+2024	12	Provinsi DI Yogyakarta                            	03	Kab. Kulon Progo	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	62276298800
+2024	13	Provinsi Jawa Timur                               	14	Kab. Malang	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	274542390600
+2024	13	Provinsi Jawa Timur                               	24	Kab. Sidoarjo	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	178570769200
+2024	13	Provinsi Jawa Timur                               	28	Kab. Tuban	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	167130262000
+2024	18	Provinsi Sulawesi Utara                           	13	Kab. Minahasa Tenggara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	56790743600
+2024	21	Provinsi Sulawesi Tenggara                        	14	Kab. Kolaka Timur	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	46447821400
+2024	25	Provinsi Maluku                                   	03	Kab. Maluku Tenggara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	53607104000
+2024	29	Provinsi  Bangka Belitung                         	02	Kab. Belitung	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	21917023800
+2024	30	Provinsi Gorontalo                                	04	Kab. Pohuwato	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	55640560800
+2024	36	Provinsi Papua Tengah	03	Kab. Paniai	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	91870380400
+2023	02	Provinsi Sumatera Utara	11	Kab. Tapanuli Tengah	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	142789478000
+2023	03	Provinsi Sumatera Barat	05	Kab. Pasaman	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	47527744000
+2023	04	Provinsi Riau	02	Kab. Indragiri Hilir	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	182593182000
+2023	07	Provinsi Bengkulu	06	Kab. Seluma	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	152439601000
+2023	08	Provinsi Lampung	04	Kab. Lampung Utara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	205967574000
+2023	10	Provinsi Jawa Barat	06	Kab. Cirebon	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	465063547000
+2023	10	Provinsi Jawa Barat	26	Kab. Bandung Barat	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	242697615000
+2023	11	Provinsi Jawa Tengah	12	Kab. Kebumen	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	455959893200
+2023	13	Provinsi Jawa Timur	09	Kab. Kediri	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	381287893345
+2023	14	Provinsi Kalimantan Barat	02	Kab. Landak	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	155614525000
+2023	14	Provinsi Kalimantan Barat	14	Kab. Kubu Raya	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	119199655800
+2023	16	Provinsi Kalimantan Selatan	03	Kab. Hulu Sungai Selatan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	111423331000
+2023	17	Provinsi Kalimantan Timur	08	Kab. Paser	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	120380001400
+2023	18	Provinsi Sulawesi Utara	06	Kab. Kepulauan Talaud	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	106419433000
+2023	21	Provinsi Sulawesi Tenggara	07	Kab. Konawe Selatan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	264295359000
+2024	02	Provinsi Sumatera Utara                           	07	Kab. Mandailing Natal	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	153889649000
+2024	04	Provinsi Riau                                     	06	Kab. Pelalawan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	55785751200
+2024	11	Provinsi Jawa Tengah                              	11	Kab. Karanganyar	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	88814186800
+2024	11	Provinsi Jawa Tengah                              	24	Kab. Sragen	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	105498885200
+2024	13	Provinsi Jawa Timur                               	04	Kab. Bojonegoro	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	233891353200
+2024	13	Provinsi Jawa Timur                               	06	Kab. Gresik	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	201916074400
+2024	13	Provinsi Jawa Timur                               	26	Kab. Sumenep	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	217481688600
+2024	14	Provinsi Kalimantan Barat                         	01	Kab. Bengkayang	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	58101420000
+2024	15	Provinsi Kalimantan Tengah                        	08	Kab. Seruyan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	46890472000
+2024	18	Provinsi Sulawesi Utara                           	14	Kab. Bolaang Mongondow Timur	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	37259794600
+2024	20	Provinsi Sulawesi Selatan                         	04	Kab. Bulukumba	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	71642863200
+2024	24	Provinsi Nusa Tenggara Timur                      	01	Kab. Alor	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	64470686600
+2024	25	Provinsi Maluku                                   	05	Kota Ambon	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	18446917000
+2024	26	Provinsi Papua                                    	20	Kab. Supiori	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	13317135400
+2024	27	Provinsi Maluku Utara                             	03	Kab. Halmahera Barat	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	64736889200
+2024	34	Provinsi Kalimantan Utara	03	Kab. Nunukan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	90073829800
+2023	01	Provinsi Aceh	13	Kota Sabang	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	15539645000
+2023	02	Provinsi Sumatera Utara	02	Kab. Dairi	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	135230180200
+2023	02	Provinsi Sumatera Utara	03	Kab. Deli Serdang	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	347737140900
+2023	02	Provinsi Sumatera Utara	07	Kab. Mandailing Natal	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	303959196060
+2023	03	Provinsi Sumatera Barat	04	Kab. Padang Pariaman	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	101544125000
+2023	03	Provinsi Sumatera Barat	08	Kab. Solok	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	80024193600
+2023	06	Provinsi Sumatera Selatan	02	Kab. Musi Banyuasin	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	227448129600
+2023	06	Provinsi Sumatera Selatan	04	Kab. Muara Enim	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	222027045200
+2023	10	Provinsi Jawa Barat	11	Kab. Majalengka	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	328530155000
+2023	11	Provinsi Jawa Tengah	06	Kab. Brebes	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	334083744600
+2023	13	Provinsi Jawa Timur	07	Kab. Jember	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	322996582400
+2023	13	Provinsi Jawa Timur	10	Kab. Lamongan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	419493131000
+2023	13	Provinsi Jawa Timur	23	Kab. Sampang	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	228702990000
+2023	18	Provinsi Sulawesi Utara	03	Kab. Sangihe	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	107491407902
+2023	20	Provinsi Sulawesi Selatan	13	Kab. Luwu Timur	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	110838130000
+2023	21	Provinsi Sulawesi Tenggara	13	Kab. Konawe Kepulauan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	65129304000
+2023	27	Provinsi Maluku Utara	09	Kab. Pulau Morotai	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	68544651000
+2023	28	Provinsi Banten	03	Kab. Serang	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	324409539000
+2023	32	Provinsi Papua Barat	08	Kab. Teluk Wondama	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	64590528000
+2023	34	Provinsi Kalimantan Utara	01	Kab. Bulungan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	74255212000
+2023	35	Provinsi Papua Selatan	03	Kab. Mappi	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	177422554000
+2023	38	Provinsi Papua Barat Daya	01	Kab. Sorong	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	169538080200
+2024	01	Provinsi Aceh   	02	Kab. Aceh Besar	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	246172696200
+2024	02	Provinsi Sumatera Utara                           	03	Kab. Deli Serdang	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	152682779400
+2024	06	Provinsi Sumatera Selatan                         	02	Kab. Musi Banyuasin	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	112138013800
+2024	06	Provinsi Sumatera Selatan                         	16	Kab. Penukal Abab Lematang Ilir	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	31526763800
+2024	08	Provinsi  Lampung                                 	14	Kab. Tulang Bawang Barat	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	44999171800
+2024	17	Provinsi Kalimantan Timur                         	15	Kab. Mahakam Ulu	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	23130213200
+2024	19	Provinsi Sulawesi Tengah                          	07	Kab. Poso	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	61097332200
+2024	19	Provinsi Sulawesi Tengah                          	12	Kab. Banggai Laut	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	35028413600
+2024	20	Provinsi Sulawesi Selatan                         	06	Kab. Gowa	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	82055898800
+2024	21	Provinsi Sulawesi Tenggara                        	17	Kab. Buton Selatan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	25330122000
+2024	26	Provinsi Papua                                    	11	Kab. Sarmi	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	41744380600
+2024	27	Provinsi Maluku Utara                             	09	Kab. Pulau Morotai	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	66765020000
+2024	28	Provinsi Banten                                   	03	Kab. Serang	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	157988613200
+2024	29	Provinsi  Bangka Belitung                         	01	Kab. Bangka	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	30400062600
+2023	02	Provinsi Sumatera Utara	10	Kab. Tapanuli Selatan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	164370515000
+2023	03	Provinsi Sumatera Barat	01	Kab. Limapuluh Kota	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	83887365000
+2023	05	Provinsi Jambi	02	Kab. Bungo	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	121440614075
+2023	05	Provinsi Jambi	08	Kab. Tanjung Jabung Timur	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	70448548000
+2023	10	Provinsi Jawa Barat	25	Kota Banjar	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	17915401000
+2023	11	Provinsi Jawa Tengah	08	Kab. Demak	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	262545878000
+2023	11	Provinsi Jawa Tengah	15	Kab. Kudus	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	136746086000
+2023	11	Provinsi Jawa Tengah	18	Kab. Pekalongan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	264899843000
+2023	11	Provinsi Jawa Tengah	20	Kab. Purbalingga	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	254557923000
+2023	13	Provinsi Jawa Timur	29	Kab. Tulungagung	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	251734117000
+2023	15	Provinsi Kalimantan Tengah	03	Kab. Kapuas	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	186839388000
+2023	17	Provinsi Kalimantan Timur	13	Kab. Penajam Paser Utara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	29452924000
+2023	19	Provinsi Sulawesi Tengah	11	Kab. Sigi	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	152166403000
+2023	23	Provinsi Nusa Tenggara Barat	03	Kab. Lombok Barat	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	143291094000
+2023	24	Provinsi Nusa Tenggara Timur	08	Kab. Ngada	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	107579648000
+2023	24	Provinsi Nusa Tenggara Timur	09	Kab. Sikka	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	136087827000
+2023	37	Provinsi Papua Pegunungan	07	Kab. Lanny Jaya	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	336190923000
+2024	03	Provinsi Sumatera Barat                           	02	Kab. Agam	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	53162526000
+2024	03	Provinsi Sumatera Barat                           	05	Kab. Pasaman	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	37717409800
+2024	03	Provinsi Sumatera Barat                           	14	Kota Sawahlunto	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	11922374400
+2024	03	Provinsi Sumatera Barat                           	18	Kab. Dharmasraya	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	27124373000
+2024	04	Provinsi Riau                                     	05	Kab. Kuantan Singingi	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	91363000200
+2024	05	Provinsi Jambi                                    	07	Kab. Tanjung Jabung Barat	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	50660457000
+2024	07	Provinsi  Bengkulu                                	08	Kab. Lebong	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	37573577600
+2024	10	Provinsi Jawa Barat                               	16	Kab. Tasikmalaya	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	199953684800
+2024	11	Provinsi Jawa Tengah                              	12	Kab. Kebumen	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	220407899400
+2024	13	Provinsi Jawa Timur                               	08	Kab. Jombang	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	192523732200
+2024	13	Provinsi Jawa Timur                               	19	Kab. Pamekasan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	117836477800
+2024	15	Provinsi Kalimantan Tengah                        	12	Kab. Pulang Pisau	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	38481579000
+2024	18	Provinsi Sulawesi Utara                           	09	Kab. Minahasa Utara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	44183762600
+2024	20	Provinsi Sulawesi Selatan                         	07	Kab. Jeneponto	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	44746436800
+2024	20	Provinsi Sulawesi Selatan                         	08	Kab. Luwu	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	87987359200
+2024	21	Provinsi Sulawesi Tenggara                        	02	Kab. Konawe	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	108403904600
+2024	21	Provinsi Sulawesi Tenggara                        	12	Kab. Buton Utara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	29330475400
+2024	22	Provinsi Bali                                     	02	Kab. Bangli	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	40453235200
+2024	23	Provinsi Nusa Tenggara Barat                      	02	Kab. Dompu	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	61315891200
+2024	24	Provinsi Nusa Tenggara Timur                      	07	Kab. Manggarai	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	62349865400
+2023	01	Provinsi Aceh	01	Kab. Aceh Barat	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	231144301000
+2023	01	Provinsi Aceh	14	Kota Langsa	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	58499724540
+2023	02	Provinsi Sumatera Utara	23	Kab. Humbang Hasundutan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	127331009000
+2023	06	Provinsi Sumatera Selatan	01	Kab. Lahat	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	288155980800
+2023	06	Provinsi Sumatera Selatan	05	Kab. Ogan Komering Ilir	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	293398688610
+2023	06	Provinsi Sumatera Selatan	13	Kab. OKU Timur	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	264660335450
+2023	07	Provinsi Bengkulu	07	Kab. Mukomuko	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	121650874700
+2023	11	Provinsi Jawa Tengah	25	Kab. Sukoharjo	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	161172763000
+2023	11	Provinsi Jawa Tengah	26	Kab. Tegal	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	307953560600
+2023	13	Provinsi Jawa Timur	13	Kab. Magetan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	191794890000
+2023	13	Provinsi Jawa Timur	16	Kab. Nganjuk	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	271045569200
+2023	20	Provinsi Sulawesi Selatan	14	Kab. Pinrang	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	69961304300
+2023	22	Provinsi Bali	07	Kab. Klungkung	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	47843257000
+2023	23	Provinsi Nusa Tenggara Barat	05	Kab. Lombok Timur	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	284288270989
+2023	32	Provinsi Papua Barat	09	Kab. Kaimana	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	84393767000
+2024	01	Provinsi Aceh   	08	Kab. Aceh Utara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	330215940200
+2024	05	Provinsi Jambi                                    	01	Kab. Batanghari	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	58748551000
+2024	13	Provinsi Jawa Timur                               	15	Kab. Mojokerto	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	174261676200
+2024	15	Provinsi Kalimantan Tengah                        	07	Kab. Katingan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	76174327400
+2024	16	Provinsi Kalimantan Selatan                       	08	Kab. Tanah Laut	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	59815250800
+2024	17	Provinsi Kalimantan Timur                         	01	Kab. Berau	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	40146464200
+2024	21	Provinsi Sulawesi Tenggara                        	16	Kab. Buton Tengah	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	29021806400
+2024	30	Provinsi Gorontalo                                	05	Kab. Bone Bolango	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	81777057200
+2024	33	Provinsi Sulawesi Barat                           	02	Kab. Mamuju	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	45429750400
+2024	37	Provinsi Papua Pegunungan	03	Kab. Pegunungan Bintang	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	121995176800
+2024	37	Provinsi Papua Pegunungan	08	Kab. Nduga	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	84746434200
+2024	38	Provinsi Papua Barat Daya	04	Kab. Sorong Selatan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	47339669600
+2024	25	Provinsi Maluku                                   	10	Kab. Maluku Barat Daya	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	45648440400
+2024	26	Provinsi Papua                                    	09	Kab. Kepulauan Yapen	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	60199243000
+2024	37	Provinsi Papua Pegunungan	04	Kab. Tolikara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	224224475400
+2023	02	Provinsi Sumatera Utara	22	Kab. Nias Selatan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	397908274020
+2023	02	Provinsi Sumatera Utara	27	Kab. Padang Lawas	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	234350055880
+2023	02	Provinsi Sumatera Utara	32	Kab. Nias Barat	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	95642748627
+2023	03	Provinsi Sumatera Barat	14	Kota Sawahlunto	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	21339313000
+2023	07	Provinsi Bengkulu	01	Kab. Bengkulu Selatan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	109109020000
+2023	08	Provinsi Lampung	14	Kab. Tulang Bawang Barat	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	85992086000
+2023	11	Provinsi Jawa Tengah	11	Kab. Karanganyar	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	180205977000
+2023	13	Provinsi Jawa Timur	15	Kab. Mojokerto	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	294196059900
+2023	13	Provinsi Jawa Timur	25	Kab. Situbondo	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	150869238300
+2023	14	Provinsi Kalimantan Barat	11	Kab. Sekadau	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	82979130000
+2023	15	Provinsi Kalimantan Tengah	01	Kab. Barito Selatan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	72180332350
+2023	17	Provinsi Kalimantan Timur	04	Kab. Kutai Barat	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	162209439000
+2023	19	Provinsi Sulawesi Tengah	10	Kab. Tojo Una Una	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	114710250000
+2023	19	Provinsi Sulawesi Tengah	12	Kab. Banggai Laut	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	51097994750
+2023	20	Provinsi Sulawesi Selatan	04	Kab. Bulukumba	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	99064338200
+2023	24	Provinsi Nusa Tenggara Timur	01	Kab. Alor	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	134401170000
+2023	29	Provinsi Bangka Belitung	04	Kab. Bangka Selatan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	46472036000
+2023	31	Provinsi Kepulauan Riau	07	Kab. Bintan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	31699703000
+2023	37	Provinsi Papua Pegunungan	05	Kab. Mamberamo Tengah	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	49452196000
+2024	01	Provinsi Aceh   	07	Kab. Aceh Timur	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	205303216200
+2024	01	Provinsi Aceh   	19	Kab. Nagan Raya	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	81545322000
+2024	04	Provinsi Riau                                     	02	Kab. Indragiri Hilir	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	88949507200
+2024	08	Provinsi  Lampung                                 	01	Kab. Lampung Barat	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	60533662400
+2024	08	Provinsi  Lampung                                 	03	Kab. Lampung Tengah	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	205317677000
+2024	08	Provinsi  Lampung                                 	05	Kab. Lampung Timur	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	134570202800
+2024	08	Provinsi  Lampung                                 	15	Kab. Pesisir Barat	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	45007509600
+2024	11	Provinsi Jawa Tengah                              	04	Kab. Blora	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	126321705000
+2024	13	Provinsi Jawa Timur                               	11	Kab. Lumajang	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	114231594000
+2024	13	Provinsi Jawa Timur                               	18	Kab. Pacitan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	124187123400
+2024	13	Provinsi Jawa Timur                               	21	Kab. Ponorogo	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	230499712400
+2024	13	Provinsi Jawa Timur                               	22	Kab. Probolinggo	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	173225989200
+2024	16	Provinsi Kalimantan Selatan                       	13	Kab. Tanah Bumbu	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	88672772600
+2024	18	Provinsi Sulawesi Utara                           	06	Kab. Kepulauan Talaud	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	50483198800
+2024	21	Provinsi Sulawesi Tenggara                        	08	Kab. Bombana	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	48715239600
+2024	32	Provinsi Papua Barat                              	12	Kab. Manokwari Selatan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	25176263000
+2024	33	Provinsi Sulawesi Barat                           	04	Kab. Mamasa	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	67414200400
+2024	36	Provinsi Papua Tengah	02	Kab. Nabire	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	39181229000
+2023	01	Provinsi Aceh	23	Kota Subulussalam	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	69260845000
+2023	02	Provinsi Sumatera Utara	06	Kab. Langkat	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	242184832050
+2023	02	Provinsi Sumatera Utara	13	Kab. Toba	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	175172265000
+2023	02	Provinsi Sumatera Utara	21	Kab. Pakpak Bharat	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	39723617220
+2023	03	Provinsi Sumatera Barat	06	Kab. Pesisir Selatan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	163899561000
+2023	05	Provinsi Jambi	03	Kab. Kerinci	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	211607903840
+2023	10	Provinsi Jawa Barat	09	Kab. Karawang	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	352304937000
+2023	11	Provinsi Jawa Tengah	04	Kab. Blora	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	265281497000
+2023	13	Provinsi Jawa Timur	08	Kab. Jombang	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	315572884000
+2023	13	Provinsi Jawa Timur	12	Kab. Madiun	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	196676956000
+2023	17	Provinsi Kalimantan Timur	05	Kab. Kutai Timur	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	146660086500
+2023	19	Provinsi Sulawesi Tengah	03	Kab. Buol	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	91419056000
+2023	20	Provinsi Sulawesi Selatan	21	Kab. Tana Toraja	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	104378742000
+2023	20	Provinsi Sulawesi Selatan	25	Kab. Toraja Utara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	100570285000
+2023	24	Provinsi Nusa Tenggara Timur	16	Kab. Manggarai Barat	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	145594391000
+2023	24	Provinsi Nusa Tenggara Timur	18	Kab. Sumba Barat Daya	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	187540421000
+2023	25	Provinsi Maluku	01	Kab. Kepulauan Tanimbar	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	70721433000
+2023	32	Provinsi Papua Barat	13	Kab. Pegunungan Arfak	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	128921849000
+2023	33	Provinsi Sulawesi Barat	01	Kab. Majene	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	55815279000
+2023	33	Provinsi Sulawesi Barat	04	Kab. Mamasa	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	139208794000
+2023	33	Provinsi Sulawesi Barat	06	Kab. Mamuju Tengah	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	51720040000
+2023	36	Provinsi Papua Tengah	01	Kab. Mimika	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	130605281000
+2024	01	Provinsi Aceh   	17	Kab. Aceh Barat Daya	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	56806335800
+2024	02	Provinsi Sumatera Utara                           	32	Kab. Nias Barat	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	47135655600
+2024	03	Provinsi Sumatera Barat                           	09	Kab. Tanah Datar	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	41982166800
+2024	07	Provinsi  Bengkulu                                	06	Kab. Seluma	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	72546355000
+2024	07	Provinsi  Bengkulu                                	10	Kab. Bengkulu Tengah	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	55135111200
+2024	10	Provinsi Jawa Barat                               	07	Kab. Garut	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	250788217000
+2024	14	Provinsi Kalimantan Barat                         	05	Kab. Mempawah	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	35188206800
+2024	14	Provinsi Kalimantan Barat                         	08	Kab. Sintang	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	189637526200
+2024	14	Provinsi Kalimantan Barat                         	12	Kab. Melawi	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	88829763600
+2024	15	Provinsi Kalimantan Tengah                        	05	Kab. Kotawaringin Timur	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	91151155600
+2024	16	Provinsi Kalimantan Selatan                       	09	Kab. Tapin	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	53939530600
+2024	19	Provinsi Sulawesi Tengah                          	11	Kab. Sigi	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	74373959800
+2024	20	Provinsi Sulawesi Selatan                         	01	Kab. Bantaeng	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	25127057400
+2024	20	Provinsi Sulawesi Selatan                         	22	Kab. Wajo	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	60579811400
+2024	21	Provinsi Sulawesi Tenggara                        	03	Kab. Kolaka	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	41904421400
+2024	24	Provinsi Nusa Tenggara Timur                      	17	Kab. Nagekeo	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	42962352000
+2024	26	Provinsi Papua                                    	10	Kota Jayapura	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	6125124600
+2023	01	Provinsi Aceh	12	Kota Banda Aceh	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	76172967000
+2023	01	Provinsi Aceh	18	Kab. Aceh Jaya	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	126437618000
+2023	02	Provinsi Sumatera Utara	05	Kab. Labuhanbatu	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	77238661800
+2023	02	Provinsi Sumatera Utara	29	Kab. Labuhanbatu Selatan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	59337613000
+2023	04	Provinsi Riau	01	Kab. Bengkalis	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	129623338071
+2023	05	Provinsi Jambi	11	Kota Sungai Penuh	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	49394385788
+2023	07	Provinsi Bengkulu	05	Kab. Kaur	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	144289587000
+2023	08	Provinsi Lampung	08	Kab. Way Kanan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	198651640000
+2023	12	Provinsi DI Yogyakarta	04	Kab. Sleman	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	124203563500
+2023	13	Provinsi Jawa Timur	14	Kab. Malang	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	462622095000
+2023	13	Provinsi Jawa Timur	20	Kab. Pasuruan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	349825662500
+2023	14	Provinsi Kalimantan Barat	05	Kab. Mempawah	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	61127714000
+2023	15	Provinsi Kalimantan Tengah	10	Kab. Lamandau	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	68082862000
+2023	16	Provinsi Kalimantan Selatan	04	Kab. Hulu Sungai Tengah	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	127021976000
+2023	18	Provinsi Sulawesi Utara	13	Kab. Minahasa Tenggara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	99269669000
+2023	19	Provinsi Sulawesi Tengah	02	Kab. Banggai Kepulauan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	111415896000
+2023	19	Provinsi Sulawesi Tengah	04	Kab. Toli-Toli	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	93090125000
+2023	22	Provinsi Bali	06	Kab. Karangasem	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	79383744000
+2023	24	Provinsi Nusa Tenggara Timur	20	Kab. Manggarai Timur	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	157447150500
+2023	24	Provinsi Nusa Tenggara Timur	22	Kab. Malaka	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	115598346000
+2024	02	Provinsi Sumatera Utara                           	08	Kab. Nias	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	74454424600
+2024	02	Provinsi Sumatera Utara                           	28	Kab. Padang Lawas Utara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	136182536400
+2024	05	Provinsi Jambi                                    	09	Kab. Tebo	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	80368377400
+2024	06	Provinsi Sumatera Selatan                         	11	Kab. Banyuasin	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	130380750800
+2024	07	Provinsi  Bengkulu                                	01	Kab. Bengkulu Selatan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	81726603400
+2024	10	Provinsi Jawa Barat                               	06	Kab. Cirebon	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	235165449200
+2024	11	Provinsi Jawa Tengah                              	16	Kab. Magelang	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	176919282000
+2024	11	Provinsi Jawa Tengah                              	22	Kab. Rembang	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	170647554200
+2024	13	Provinsi Jawa Timur                               	05	Kab. Bondowoso	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	116476679400
+2024	13	Provinsi Jawa Timur                               	17	Kab. Ngawi	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	135367752400
+2024	14	Provinsi Kalimantan Barat                         	13	Kab. Kayong Utara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	28028151200
+2024	14	Provinsi Kalimantan Barat                         	14	Kab. Kubu Raya	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	73139852400
+2024	16	Provinsi Kalimantan Selatan                       	03	Kab. Hulu Sungai Selatan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	75821090000
+2024	17	Provinsi Kalimantan Timur                         	08	Kab. Paser	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	55685452800
+2024	18	Provinsi Sulawesi Utara                           	12	Kab. Bolaang Mongondow Utara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	48041047800
+2024	19	Provinsi Sulawesi Tengah                          	05	Kab. Donggala	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	73198484600
+2024	20	Provinsi Sulawesi Selatan                         	10	Kab. Maros	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	47156330400
+2024	22	Provinsi Bali                                     	08	Kab. Tabanan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	84102000600
+2024	22	Provinsi Bali                                     	09	Kota Denpasar	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	20399236800
+2024	25	Provinsi Maluku                                   	06	Kab. Seram Bagian Barat	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	31637925400
+2024	26	Provinsi Papua                                    	21	Kab. Mamberamo Raya	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	36079385200
+2023	01	Provinsi Aceh	06	Kab. Aceh Tenggara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	280160798400
+2023	01	Provinsi Aceh	17	Kab. Aceh Barat Daya	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	117484720000
+2023	02	Provinsi Sumatera Utara	09	Kab. Simalungun	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	340366720000
+2023	03	Provinsi Sumatera Barat	02	Kab. Agam	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	86653550000
+2023	03	Provinsi Sumatera Barat	09	Kab. Tanah Datar	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	74105465000
+2023	04	Provinsi Riau	08	Kab. Rokan Hulu	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	139870726000
+2023	05	Provinsi Jambi	01	Kab. Batanghari	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	99657256000
+2023	06	Provinsi Sumatera Selatan	14	Kab. OKU Selatan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	215732217880
+2023	08	Provinsi Lampung	01	Kab. Lampung Barat	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	117770480000
+2023	08	Provinsi Lampung	02	Kab. Lampung Selatan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	257544305000
+2023	10	Provinsi Jawa Barat	03	Kab. Bogor	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	596200171850
+2023	10	Provinsi Jawa Barat	13	Kab. Subang	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	280609986000
+2023	13	Provinsi Jawa Timur	24	Kab. Sidoarjo	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	322178934000
+2023	14	Provinsi Kalimantan Barat	12	Kab. Melawi	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	152772193000
+2023	16	Provinsi Kalimantan Selatan	02	Kab. Barito Kuala	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	155015700000
+2023	18	Provinsi Sulawesi Utara	09	Kab. Minahasa Utara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	98526285276
+2023	20	Provinsi Sulawesi Selatan	01	Kab. Bantaeng	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	41310806000
+2023	20	Provinsi Sulawesi Selatan	16	Kab. Kepulauan Selayar	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	68245693000
+2023	21	Provinsi Sulawesi Tenggara	03	Kab. Kolaka	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	81488233105
+2023	21	Provinsi Sulawesi Tenggara	15	Kab. Muna Barat	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	66015798000
+2023	23	Provinsi Nusa Tenggara Barat	01	Kab. Bima	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	190157200000
+2023	25	Provinsi Maluku	03	Kab. Maluku Tenggara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	148569795000
+2023	25	Provinsi Maluku	05	Kota Ambon	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	31457579000
+2023	31	Provinsi Kepulauan Riau	03	Kab. Karimun	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	37646768000
+2023	35	Provinsi Papua Selatan	01	Kab. Merauke	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	187527260988
+2023	35	Provinsi Papua Selatan	02	Kab. Boven Digoel	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	116409743000
+2024	02	Provinsi Sumatera Utara                           	06	Kab. Langkat	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	125022382800
+2024	02	Provinsi Sumatera Utara                           	13	Kab. Toba	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	81955637600
+2024	02	Provinsi Sumatera Utara                           	25	Kab. Samosir	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	40313110800
+2024	07	Provinsi  Bengkulu                                	03	Kab. Rejang Lebong	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	54129795200
+2024	07	Provinsi  Bengkulu                                	09	Kab. Kepahiang	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	39618492000
+2024	08	Provinsi  Lampung                                 	02	Kab. Lampung Selatan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	118839520600
+2024	10	Provinsi Jawa Barat                               	12	Kab. Purwakarta	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	100698076200
+2024	10	Provinsi Jawa Barat                               	26	Kab. Bandung Barat	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	130493755400
+2024	11	Provinsi Jawa Tengah                              	17	Kab. Pati	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	210702314200
+2024	13	Provinsi Jawa Timur                               	01	Kab. Bangkalan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	147692456440
+2024	18	Provinsi Sulawesi Utara                           	01	Kab. Bolaang Mongondow	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	99643361600
+2024	20	Provinsi Sulawesi Selatan                         	17	Kab. Sidenreng Rappang	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	35725638000
+2024	20	Provinsi Sulawesi Selatan                         	21	Kab. Tana Toraja	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	49366513400
+2024	27	Provinsi Maluku Utara                             	10	Kab. Pulau Taliabu	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	29109650200
+2024	29	Provinsi  Bangka Belitung                         	07	Kab. Belitung Timur	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	22376019800
+2023	01	Provinsi Aceh	15	Kota Lhokseumawe	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	61401253255
+2023	01	Provinsi Aceh	16	Kab. Gayo Lues	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	109847539000
+2023	02	Provinsi Sumatera Utara	04	Kab. Karo	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	203762583000
+2023	02	Provinsi Sumatera Utara	26	Kab. Batu Bara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	135959571000
+2023	03	Provinsi Sumatera Barat	03	Kab. Kepulauan Mentawai	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	46289511000
+2023	04	Provinsi Riau	12	Kab. Kepulauan Meranti	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	98162430900
+2023	07	Provinsi Bengkulu	10	Kab. Bengkulu Tengah	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	108101520400
+2023	10	Provinsi Jawa Barat	01	Kab. Bandung	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	369782772050
+2023	11	Provinsi Jawa Tengah	28	Kab. Wonogiri	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	259415528000
+2023	14	Provinsi Kalimantan Barat	04	Kab. Ketapang	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	253420738150
+2023	14	Provinsi Kalimantan Barat	07	Kab. Sanggau	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	157083453900
+2023	20	Provinsi Sulawesi Selatan	11	Kab. Pangkajene Kepulauan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	65102177990
+2023	20	Provinsi Sulawesi Selatan	20	Kab. Takalar	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	67993500000
+2023	21	Provinsi Sulawesi Tenggara	01	Kab. Buton	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	65035538800
+2023	24	Provinsi Nusa Tenggara Timur	05	Kab. Kupang	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	153099304000
+2023	24	Provinsi Nusa Tenggara Timur	19	Kab. Sumba Tengah	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	66732475800
+2023	27	Provinsi Maluku Utara	01	Kab. Halmahera Tengah	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	50695829000
+2023	27	Provinsi Maluku Utara	06	Kab. Halmahera Utara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	150623717000
+2023	28	Provinsi Banten	01	Kab. Lebak	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	354640034000
+2023	29	Provinsi Bangka Belitung	01	Kab. Bangka	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	57863983000
+2023	29	Provinsi Bangka Belitung	06	Kab. Bangka Barat	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	54434722000
+2023	32	Provinsi Papua Barat	02	Kab. Manokwari	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	130413035000
+2023	33	Provinsi Sulawesi Barat	05	Kab. Pasangkayu	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	53799805000
+2023	34	Provinsi Kalimantan Utara	02	Kab. Malinau	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	117636673000
+2023	37	Provinsi Papua Pegunungan	01	Kab. Jayawijaya	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	269928305000
+2024	02	Provinsi Sumatera Utara                           	01	Kab. Asahan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	77739606000
+2024	02	Provinsi Sumatera Utara                           	24	Kab. Serdang Bedagai	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	98291719800
+2024	10	Provinsi Jawa Barat                               	10	Kab. Kuningan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	181350814000
+2024	11	Provinsi Jawa Tengah                              	29	Kab. Wonosobo	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	125489716200
+2024	16	Provinsi Kalimantan Selatan                       	05	Kab. Hulu Sungai Utara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	101652276000
+2024	16	Provinsi Kalimantan Selatan                       	06	Kab. Kotabaru	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	88766273800
+2024	24	Provinsi Nusa Tenggara Timur                      	13	Kab. Timor Tengah Utara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	83899796800
+2024	24	Provinsi Nusa Tenggara Timur                      	19	Kab. Sumba Tengah	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	24328232000
+2024	24	Provinsi Nusa Tenggara Timur                      	20	Kab. Manggarai Timur	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	76387100400
+2024	25	Provinsi Maluku                                   	02	Kab. Maluku Tengah	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	92976317200
+2024	25	Provinsi Maluku                                   	07	Kab. Seram Bagian Timur	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	71095091000
+2024	27	Provinsi Maluku Utara                             	01	Kab. Halmahera Tengah	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	24458965600
+2024	33	Provinsi Sulawesi Barat                           	05	Kab. Pasangkayu	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	26166493400
+2024	34	Provinsi Kalimantan Utara	01	Kab. Bulungan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	37989704200
+2024	34	Provinsi Kalimantan Utara	05	Kab. Tana Tidung	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	21096351400
+2024	38	Provinsi Papua Barat Daya	06	Kab. Tambrauw	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	8858639800
+2023	01	Provinsi Aceh	04	Kab. Aceh Singkil	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	96032347000
+2023	01	Provinsi Aceh	10	Kab. Pidie	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	541247856400
+2023	01	Provinsi Aceh	21	Kab. Bener Meriah	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	171270409000
+2023	03	Provinsi Sumatera Barat	19	Kab. Solok Selatan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	41852235000
+2023	04	Provinsi Riau	03	Kab. Indragiri Hulu	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	154430302740
+2023	06	Provinsi Sumatera Selatan	17	Kab Musi Rawas Utara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	81841303000
+2023	10	Provinsi Jawa Barat	07	Kab. Garut	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	491220881700
+2023	11	Provinsi Jawa Tengah	02	Kab. Banyumas	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	354692218000
+2023	12	Provinsi DI Yogyakarta	03	Kab. Kulon Progo	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	104694668000
+2023	14	Provinsi Kalimantan Barat	01	Kab. Bengkayang	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	110069022000
+2023	14	Provinsi Kalimantan Barat	08	Kab. Sintang	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	341667038870
+2023	15	Provinsi Kalimantan Tengah	08	Kab. Seruyan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	94487656000
+2023	21	Provinsi Sulawesi Tenggara	14	Kab. Kolaka Timur	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	92708644000
+2023	24	Provinsi Nusa Tenggara Timur	12	Kab. Timor Tengah Selatan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	250455378400
+2023	32	Provinsi Papua Barat	07	Kab. Teluk Bintuni	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	103209977000
+2023	34	Provinsi Kalimantan Utara	03	Kab. Nunukan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	179186422500
+2023	34	Provinsi Kalimantan Utara	05	Kab. Tana Tidung	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	29655371000
+2023	36	Provinsi Papua Tengah	03	Kab. Paniai	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	193500413000
+2023	36	Provinsi Papua Tengah	07	Kab. Intan Jaya	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	103322718000
+2023	37	Provinsi Papua Pegunungan	02	Kab. Yahukimo	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	440434121000
+2024	02	Provinsi Sumatera Utara                           	02	Kab. Dairi	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	68237960200
+2024	03	Provinsi Sumatera Barat                           	16	Kota Pariaman	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	21822272600
+2024	04	Provinsi Riau                                     	04	Kab. Kampar	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	144013265600
+2024	05	Provinsi Jambi                                    	03	Kab. Kerinci	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	147558613400
+2024	10	Provinsi Jawa Barat                               	09	Kab. Karawang	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	174957807000
+2024	11	Provinsi Jawa Tengah                              	09	Kab. Grobogan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	247548171800
+2024	14	Provinsi Kalimantan Barat                         	02	Kab. Landak	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	79052142000
+2024	18	Provinsi Sulawesi Utara                           	02	Kab. Minahasa	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	99119975000
+2024	21	Provinsi Sulawesi Tenggara                        	07	Kab. Konawe Selatan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	124303027000
+2024	26	Provinsi Papua                                    	01	Kab. Biak Numfor	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	95254122400
+2024	31	Provinsi Kepulauan Riau                           	01	Kab. Natuna	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	26185055600
+2024	33	Provinsi Sulawesi Barat                           	06	Kab. Mamuju Tengah	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	25705599400
+2023	01	Provinsi Aceh	05	Kab. Aceh Tengah	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	220809735164
+2023	04	Provinsi Riau	04	Kab. Kampar	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	231442855200
+2023	05	Provinsi Jambi	09	Kab. Tebo	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	101057360476
+2023	06	Provinsi Sumatera Selatan	11	Kab. Banyuasin	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	274230612000
+2023	11	Provinsi Jawa Tengah	22	Kab. Rembang	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	248448063000
+2023	13	Provinsi Jawa Timur	01	Kab. Bangkalan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	310628711997
+2023	13	Provinsi Jawa Timur	03	Kab. Blitar	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	234905666000
+2023	13	Provinsi Jawa Timur	11	Kab. Lumajang	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	218497691000
+2023	13	Provinsi Jawa Timur	21	Kab. Ponorogo	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	263442388000
+2023	15	Provinsi Kalimantan Tengah	09	Kab. Sukamara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	26472195000
+2023	16	Provinsi Kalimantan Selatan	07	Kab. Tabalong	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	101081537000
+2023	21	Provinsi Sulawesi Tenggara	08	Kab. Bombana	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	97776291000
+2023	21	Provinsi Sulawesi Tenggara	09	Kab. Wakatobi	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	61640608000
+2023	23	Provinsi Nusa Tenggara Barat	06	Kab. Sumbawa	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	152202830000
+2023	24	Provinsi Nusa Tenggara Timur	13	Kab. Timor Tengah Utara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	147552503900
+2023	24	Provinsi Nusa Tenggara Timur	21	Kab. Sabu Raijua	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	62145670550
+2023	25	Provinsi Maluku	06	Kab. Seram Bagian Barat	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	91561512925
+2023	26	Provinsi Papua	01	Kab. Biak Numfor	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	191607849000
+2023	26	Provinsi Papua	21	Kab. Mamberamo Raya	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	70850665000
+2023	32	Provinsi Papua Barat	01	Kab. Fak Fak	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	121319045000
+2024	01	Provinsi Aceh   	10	Kab. Pidie	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	269988649000
+2024	01	Provinsi Aceh   	18	Kab. Aceh Jaya	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	82068301200
+2024	02	Provinsi Sumatera Utara                           	05	Kab. Labuhanbatu	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	37798359200
+2024	02	Provinsi Sumatera Utara                           	22	Kab. Nias Selatan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	152221556600
+2024	02	Provinsi Sumatera Utara                           	29	Kab. Labuhanbatu Selatan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	24754052000
+2024	03	Provinsi Sumatera Barat                           	07	Kab. Sijunjung	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	32835388800
+2024	08	Provinsi  Lampung                                 	13	Kab. Mesuji	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	43534425000
+2024	15	Provinsi Kalimantan Tengah                        	04	Kab. Kotawaringin Barat	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	40104142600
+2024	15	Provinsi Kalimantan Tengah                        	10	Kab. Lamandau	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	41563962400
+2024	17	Provinsi Kalimantan Timur                         	04	Kab. Kutai Barat	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	82525403800
+2024	19	Provinsi Sulawesi Tengah                          	06	Kab. Morowali	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	53978237200
+2024	20	Provinsi Sulawesi Selatan                         	16	Kab. Kepulauan Selayar	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	28728112000
+2024	20	Provinsi Sulawesi Selatan                         	19	Kab. Soppeng	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	23283831200
+2024	24	Provinsi Nusa Tenggara Timur                      	04	Kab. Flores Timur	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	103494923600
+2024	24	Provinsi Nusa Tenggara Timur                      	15	Kab. Rote Ndao	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	51780875800
+2024	24	Provinsi Nusa Tenggara Timur                      	22	Kab. Malaka	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	62995989000
+2024	25	Provinsi Maluku                                   	08	Kab. Kepulauan Aru	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	51414754600
+2024	27	Provinsi Maluku Utara                             	08	Kota Tidore Kepulauan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	17793513000
+2024	28	Provinsi Banten                                   	02	Kab. Pandeglang	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	196025484200
+2023	07	Provinsi Bengkulu	03	Kab. Rejang Lebong	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	106107340700
+2023	10	Provinsi Jawa Barat	14	Kab. Sukabumi	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	446761470000
+2023	11	Provinsi Jawa Tengah	03	Kab. Batang	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	223279438000
+2023	11	Provinsi Jawa Tengah	21	Kab. Purworejo	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	384401231000
+2023	13	Provinsi Jawa Timur	04	Kab. Bojonegoro	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	406556846275
+2023	13	Provinsi Jawa Timur	27	Kab. Trenggalek	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	165882571000
+2023	13	Provinsi Jawa Timur	28	Kab. Tuban	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	306929122900
+2023	14	Provinsi Kalimantan Barat	03	Kab. Kapuas Hulu	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	248770492800
+2023	15	Provinsi Kalimantan Tengah	02	Kab. Barito Utara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	76583107000
+2023	15	Provinsi Kalimantan Tengah	04	Kab. Kotawaringin Barat	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	75749087000
+2023	15	Provinsi Kalimantan Tengah	13	Kab. Murung Raya	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	110859253000
+2023	16	Provinsi Kalimantan Selatan	09	Kab. Tapin	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	97150986586
+2023	19	Provinsi Sulawesi Tengah	01	Kab. Banggai	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	227030227000
+2023	19	Provinsi Sulawesi Tengah	07	Kab. Poso	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	120893347000
+2023	24	Provinsi Nusa Tenggara Timur	04	Kab. Flores Timur	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	180183689349
+2023	25	Provinsi Maluku	08	Kab. Kepulauan Aru	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	103653383000
+2023	31	Provinsi Kepulauan Riau	06	Kab. Lingga	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	63457450966
+2023	33	Provinsi Sulawesi Barat	03	Kab. Polewali Mandar	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	144190872000
+2023	36	Provinsi Papua Tengah	05	Kab. Dogiyai	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	91414451000
+2024	01	Provinsi Aceh   	23	Kota Subulussalam	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	47851764400
+2024	03	Provinsi Sumatera Barat                           	06	Kab. Pesisir Selatan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	84318823200
+2024	03	Provinsi Sumatera Barat                           	08	Kab. Solok	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	43257436600
+2024	06	Provinsi Sumatera Selatan                         	15	Kab. Empat Lawang	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	60411776200
+2024	10	Provinsi Jawa Barat                               	02	Kab. Bekasi	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	136533059400
+2024	11	Provinsi Jawa Tengah                              	01	Kab. Banjarnegara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	137288260000
+2024	11	Provinsi Jawa Tengah                              	05	Kab. Boyolali	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	148375409200
+2024	11	Provinsi Jawa Tengah                              	19	Kab. Pemalang	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	149933349600
+2024	13	Provinsi Jawa Timur                               	03	Kab. Blitar	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	142052586000
+2024	13	Provinsi Jawa Timur                               	09	Kab. Kediri	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	240935398000
+2024	20	Provinsi Sulawesi Selatan                         	03	Kab. Bone	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	150993205200
+2024	20	Provinsi Sulawesi Selatan                         	15	Kab. Sinjai	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	33241711200
+2024	22	Provinsi Bali                                     	01	Kab. Badung	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	28092701400
+2024	24	Provinsi Nusa Tenggara Timur                      	10	Kab. Sumba Barat	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	34759621000
+2024	24	Provinsi Nusa Tenggara Timur                      	16	Kab. Manggarai Barat	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	68560483400
+2024	24	Provinsi Nusa Tenggara Timur                      	18	Kab. Sumba Barat Daya	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	99122177000
+2024	24	Provinsi Nusa Tenggara Timur                      	21	Kab. Sabu Raijua	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	25537193200
+2024	26	Provinsi Papua                                    	02	Kab. Jayapura	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	53704059000
+2023	01	Provinsi Aceh	09	Kab. Bireuen	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	461692050000
+2023	01	Provinsi Aceh	11	Kab. Simeulue	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	105738659999
+2023	02	Provinsi Sumatera Utara	01	Kab. Asahan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	172864791072
+2023	02	Provinsi Sumatera Utara	24	Kab. Serdang Bedagai	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	205897856795
+2023	05	Provinsi Jambi	04	Kab. Merangin	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	175219610000
+2023	06	Provinsi Sumatera Selatan	16	Kab. Penukal Abab Lematang Ilir	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	62903377000
+2023	10	Provinsi Jawa Barat	15	Kab. Sumedang	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	277350642100
+2023	10	Provinsi Jawa Barat	27	Kab. Pangandaran	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	97251765650
+2023	11	Provinsi Jawa Tengah	17	Kab. Pati	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	382478377000
+2023	11	Provinsi Jawa Tengah	24	Kab. Sragen	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	213713479000
+2023	11	Provinsi Jawa Tengah	29	Kab. Wonosobo	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	247153737000
+2023	13	Provinsi Jawa Timur	26	Kab. Sumenep	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	359620929000
+2023	16	Provinsi Kalimantan Selatan	06	Kab. Kotabaru	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	167208742000
+2023	18	Provinsi Sulawesi Utara	10	Kab. Kep. Siau Tagulandang Biaro	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	61234795000
+2023	19	Provinsi Sulawesi Tengah	13	Kab Morowali Utara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	110554350000
+2023	20	Provinsi Sulawesi Selatan	09	Kab. Luwu Utara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	153576765000
+2023	21	Provinsi Sulawesi Tenggara	11	Kab. Konawe Utara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	119400224000
+2023	22	Provinsi Bali	09	Kota Denpasar	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	33881756000
+2023	23	Provinsi Nusa Tenggara Barat	09	Kab. Sumbawa Barat	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	49329862000
+2023	24	Provinsi Nusa Tenggara Timur	11	Kab. Sumba Timur	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	138950764000
+2023	26	Provinsi Papua	19	Kab. Waropen	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	84938124000
+2023	27	Provinsi Maluku Utara	05	Kab. Halmahera Selatan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	206565958411
+2023	31	Provinsi Kepulauan Riau	02	Kab. Kepulauan Anambas	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	39126062000
+2023	38	Provinsi Papua Barat Daya	05	Kab. Maybrat	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	188115468000
+2023	38	Provinsi Papua Barat Daya	06	Kab. Tambrauw	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	166719639000
+2024	02	Provinsi Sumatera Utara                           	31	Kab. Nias Utara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	58001846000
+2024	05	Provinsi Jambi                                    	04	Kab. Merangin	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	99608512600
+2024	06	Provinsi Sumatera Selatan                         	06	Kab. Ogan Komering Ulu	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	62472837600
+2024	08	Provinsi  Lampung                                 	12	Kab. Pringsewu	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	59351605000
+2024	10	Provinsi Jawa Barat                               	01	Kab. Bandung	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	193374742600
+2024	10	Provinsi Jawa Barat                               	05	Kab. Cianjur	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	239077822400
+2024	11	Provinsi Jawa Tengah                              	06	Kab. Brebes	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	168228321400
+2024	11	Provinsi Jawa Tengah                              	28	Kab. Wonogiri	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	164658507800
+2024	12	Provinsi DI Yogyakarta                            	02	Kab. Gunung Kidul	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	101559692200
+2024	13	Provinsi Jawa Timur                               	10	Kab. Lamongan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	217929522600
+2024	13	Provinsi Jawa Timur                               	23	Kab. Sampang	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	124932212000
+2024	15	Provinsi Kalimantan Tengah                        	11	Kab. Gunung Mas	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	44075430600
+2024	27	Provinsi Maluku Utara                             	04	Kab. Halmahera Timur	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	45102216000
+2024	27	Provinsi Maluku Utara                             	07	Kab. Kepulauan Sula	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	32886919800
+2024	30	Provinsi Gorontalo                                	02	Kab. Gorontalo	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	104947886600
+2024	33	Provinsi Sulawesi Barat                           	01	Kab. Majene	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	27537833600
+2023	05	Provinsi Jambi	07	Kab. Tanjung Jabung Barat	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	99079758000
+2023	07	Provinsi Bengkulu	02	Kab. Bengkulu Utara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	178385537000
+2023	08	Provinsi Lampung	03	Kab. Lampung Tengah	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	319165415000
+2023	08	Provinsi Lampung	15	Kab. Pesisir Barat	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	94625929000
+2023	10	Provinsi Jawa Barat	16	Kab. Tasikmalaya	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	399737802700
+2023	11	Provinsi Jawa Tengah	19	Kab. Pemalang	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	261275195760
+2023	13	Provinsi Jawa Timur	05	Kab. Bondowoso	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	224397404000
+2023	13	Provinsi Jawa Timur	19	Kab. Pamekasan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	202286998000
+2023	15	Provinsi Kalimantan Tengah	07	Kab. Katingan	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	135105046000
+2023	15	Provinsi Kalimantan Tengah	12	Kab. Pulang Pisau	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	81340442000
+2023	17	Provinsi Kalimantan Timur	01	Kab. Berau	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	93677389000
+2023	20	Provinsi Sulawesi Selatan	03	Kab. Bone	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	287820801350
+2023	20	Provinsi Sulawesi Selatan	07	Kab. Jeneponto	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	82197107200
+2023	21	Provinsi Sulawesi Tenggara	12	Kab. Buton Utara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	61116609000
+2023	22	Provinsi Bali	02	Kab. Bangli	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	60083252000
+2023	23	Provinsi Nusa Tenggara Barat	02	Kab. Dompu	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	71658985000
+2023	30	Provinsi Gorontalo	05	Kab. Bone Bolango	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	122626132000
+2023	37	Provinsi Papua Pegunungan	04	Kab. Tolikara	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	423167940000
+2023	37	Provinsi Papua Pegunungan	08	Kab. Nduga	6	TRANSFER KE DAERAH DAN DANA DESA	66	Dana Desa	662	Dana Desa	6621	Dana Desa	208348932000
+2024	01	Provinsi Aceh   	01	Kab. Aceh Barat	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	146338787200
+2024	02	Provinsi Sumatera Utara                           	23	Kab. Humbang Hasundutan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	59698299200
+2024	03	Provinsi Sumatera Barat                           	01	Kab. Limapuluh Kota	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	50532394400
+2024	05	Provinsi Jambi                                    	08	Kab. Tanjung Jabung Timur	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	35202122600
+2024	06	Provinsi Sumatera Selatan                         	05	Kab. Ogan Komering Ilir	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	146448006400
+2024	07	Provinsi  Bengkulu                                	07	Kab. Mukomuko	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	76600060800
+2024	08	Provinsi  Lampung                                 	11	Kab. Pesawaran	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	75665042000
+2024	11	Provinsi Jawa Tengah                              	10	Kab. Jepara	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	103604630200
+2024	11	Provinsi Jawa Tengah                              	20	Kab. Purbalingga	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	133546864800
+2024	11	Provinsi Jawa Tengah                              	25	Kab. Sukoharjo	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	81246605000
+2024	12	Provinsi DI Yogyakarta                            	04	Kab. Sleman	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	70726202600
+2024	13	Provinsi Jawa Timur                               	13	Kab. Magetan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	127012881000
+2024	15	Provinsi Kalimantan Tengah                        	03	Kab. Kapuas	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	92076717000
+2024	16	Provinsi Kalimantan Selatan                       	04	Kab. Hulu Sungai Tengah	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	66983047800
+2024	18	Provinsi Sulawesi Utara                           	15	Kab. Bolaang Mongondow Selatan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	31512255000
+2024	23	Provinsi Nusa Tenggara Barat                      	03	Kab. Lombok Barat	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	71580026200
+2024	23	Provinsi Nusa Tenggara Barat                      	05	Kab. Lombok Timur	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	154573074400
+2024	26	Provinsi Papua                                    	12	Kab. Keerom	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	40229271200
+2024	32	Provinsi Papua Barat                              	09	Kab. Kaimana	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	41254532400
+2024	33	Provinsi Sulawesi Barat                           	03	Kab. Polewali Mandar	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	42154850600
+2024	36	Provinsi Papua Tengah	07	Kab. Intan Jaya	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	47740034400
+2024	36	Provinsi Papua Tengah	08	Kab. Deiyai	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	31710711200
+2024	15	Provinsi Kalimantan Tengah                        	14	Kab. Barito Timur	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	38574308200
+2024	20	Provinsi Sulawesi Selatan                         	11	Kab. Pangkajene Kepulauan	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	33614035400
+2024	20	Provinsi Sulawesi Selatan                         	13	Kab. Luwu Timur	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	56656558200
+2024	20	Provinsi Sulawesi Selatan                         	20	Kab. Takalar	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	58347700000
+2024	22	Provinsi Bali                                     	06	Kab. Karangasem	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	48965718600
+2024	23	Provinsi Nusa Tenggara Barat                      	01	Kab. Bima	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	95468419200
+2024	23	Provinsi Nusa Tenggara Barat                      	04	Kab. Lombok Tengah	6	Transfer Ke Daerah Dan Dana Desa	66	Dana Desa	662	Dana Desa	6621	Dana Desa	100108018200
